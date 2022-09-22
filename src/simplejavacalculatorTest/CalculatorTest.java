@@ -115,5 +115,7 @@ class CalculatorTest {
 		Assertions.assertEquals(3.0, calculator.calculateMono(Calculator.MonoOperatorModes.abs, -3.0));
 		Assertions.assertEquals(3.0, calculator.calculateMono(Calculator.MonoOperatorModes.abs, 3.0));
 	}
+	@Test{
+		
 
 }
